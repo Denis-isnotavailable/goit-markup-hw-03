@@ -132,6 +132,10 @@ p {
     color: inherit;    
 }
 
+.header .nav-link.active {
+    color: var(--accent-color);
+}
+
 /* Hero */
 
 .hero {
